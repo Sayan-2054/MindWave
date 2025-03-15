@@ -7,12 +7,12 @@
 
 
 ## Overview
-The Mind Waves project aims to keep a check and improve employees’ Mental Health and overall well-being. The core idea behind creating a mental health application for the workplace is to address the growing concerns around stress, anxiety, and mental health in the modern workplace.
+The Mind Wave project aims to keep a check and improve employees’ Mental Health and overall well-being. The core idea behind creating a mental health application for the workplace is to address the growing concerns around stress, anxiety, and mental health in the modern workplace.
 
 
 
 ## Demo Video
-Explore Mind Waves with this product tour video.
+Explore Mind Wave with this product tour video.
 
 https://user-images.githubusercontent.com/55057608/224472167-4f89bdc5-212c-4b68-9303-6caebe35330f.mp4
 
