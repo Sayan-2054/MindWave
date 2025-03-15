@@ -1,6 +1,5 @@
-# Mind Waves  - Future of Workplace
+# Mind Wave  - Future of Workplace
 
-## Submission for CodeToWin hackathon by ServiceNow 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55057608/224425835-a1061297-eaa0-4c35-801c-ccebfc4cbf4e.png" alt="Mind Waves Logo" width="50%" />
